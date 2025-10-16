@@ -139,6 +139,4 @@ This project is licensed under the [LICENSE] - see the LICENSE file for details.
 - Open source community
 - Interior design professionals who provided insights
 
-## Contact
 
-For any queries or support, please contact [contact information]
